@@ -31,6 +31,10 @@ body {
     display: block;
 }
 
+#save-the-universe {
+    align-items: center;
+}
+
 .control-panel {
     display: flex;
     justify-content: space-around;
